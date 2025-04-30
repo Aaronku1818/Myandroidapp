@@ -1,5 +1,9 @@
 [
     {
+        "merged": "com.example.myapp-merged_res-20:/mipmap_ic_launcher.xml.flat",
+        "source": "com.example.myapp-main-22:/mipmap/ic_launcher.xml"
+    },
+    {
         "merged": "com.example.myapp-merged_res-20:/layout_activity_main.xml.flat",
         "source": "com.example.myapp-main-22:/layout/activity_main.xml"
     }
